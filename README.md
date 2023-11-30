@@ -7,17 +7,20 @@ You will need to copy this markdown, by either creating your own **private** gis
 ### Project Overview
 
 #### List out the tools you used:
-1.
-2.
-3.
+1. VS code 
+2. Classes  
+3. Methods 
 ...
 
 #### Write a 1-2 sentence synopsis of what this project does:
-
+It give us a card number, and we nned to write some code to see if the card number is invalid, with the steps on iteration 1.
 ### Reflection Questions: 
 **1. How do you approach solving something when you don’t have all the information?**<br />
+- I always try to look at the sources I have and, if I still don't understand I try searching it up on google. 
 **2. What was your most effective strategy for getting through blockers during this project? How did this help your process?**<br />
+
 **3. Tell us about a time that you found yourself in an unproductive struggle, how did you get out of it?**<br />
+- Take a break of 5 minutes, or if I'm struggling with something I try other sources.
 **4. What was the benefit of using TDD while building out this project?**<br />
 
 ## First Solo
