@@ -57,6 +57,14 @@ It give us a card number, and we nned to write some code to see if the card numb
 **2. What was the benefit of using TDD while building out this project?**<br />
 **3. What was a resource that you used during this project and how did you use this to move your project forward?**<br />
 
+### Reflection Questions
+**1. Describe the steps you took to dig in to this code base. What was your process? If you don’t feel you had a process, define one that you might like to try next time.
+- First: I run each of the spec files and I was reading each of the erros; second: I went to each of the class methods and try to fix the error.
+**2 What was hard about working with code you did not write?
+- I was just wondering where it was going to fail each test.
+**3 What was easier than you expected about jumping in to an unfamiliar codebase? What made it easy? If nothing felt easy, what would’ve helped you feel more comfortable more quickly?
+- I would say trying to understand were the error is and fixing it.
+
 ## Paired Paired
 
 ### Project Overview
