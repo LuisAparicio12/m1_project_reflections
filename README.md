@@ -15,13 +15,13 @@ You will need to copy this markdown, by either creating your own **private** gis
 #### Write a 1-2 sentence synopsis of what this project does:
 It give us a card number, and we nned to write some code to see if the card number is invalid, with the steps on iteration 1.
 ### Reflection Questions: 
-**1. How do you approach solving something when you don’t have all the information?**<br />
-- I always try to look at the sources I have and, if I still don't understand I try searching it up on google. 
-**2. What was your most effective strategy for getting through blockers during this project? How did this help your process?**<br />
+1. How do you approach solving something when you don’t have all the information?**<br />
+- I always try to look at the sources I have and, if I still don't understand I try searching it up on google.
+2. What was your most effective strategy for getting through blockers during this project? How did this help your process?**<br />
 
-**3. Tell us about a time that you found yourself in an unproductive struggle, how did you get out of it?**<br />
+3. Tell us about a time that you found yourself in an unproductive struggle, how did you get out of it?**<br />
 - Take a break of 5 minutes, or if I'm struggling with something I try other sources.
-**4. What was the benefit of using TDD while building out this project?**<br />
+4. What was the benefit of using TDD while building out this project?**<br />
 
 ## First Solo
 
@@ -45,17 +45,21 @@ It give us a card number, and we nned to write some code to see if the card numb
 ### Project Overview
 
 #### List out the tools you used:
-1.
-2.
-3.
+1. Branches
+2. TDD
+3. Helper methods
 ...
 
 #### Write a 1-2 sentence synopsis of what this project does:
+It take information from different states, and we have to create classes and TDD with the information given from each states.
 
 ### Reflection Questions: 
 **1. Describe the steps you took to dig in to this code base. What was your process? If you don’t feel you had a process, define one that you might like to try next time.**<br />
+Doing TDD and creating helper methods.
 **2. What was the benefit of using TDD while building out this project?**<br />
+It can take me into the right path of constructing my class and what methods do I need to in the class.
 **3. What was a resource that you used during this project and how did you use this to move your project forward?**<br />
+One of the resource it could be helper methods, and it help me to make my code more clean and not so long.
 
 ### Reflection Questions
 **1. Describe the steps you took to dig in to this code base. What was your process? If you don’t feel you had a process, define one that you might like to try next time.
