@@ -74,31 +74,38 @@ One of the resource it could be helper methods, and it help me to make my code m
 ### Project Overview
 
 #### List out the tools you used:
-1.
-2.
-3.
+1. Git Workflow
+2. Slack
+3. TDD
+
 ...
 
 #### Write a 1-2 sentence synopsis of what this project does:
+We got to work most of the game working.
 
 ### Reflection Questions: 
 **1. What was your pairing style like? How did you manage your Github work flow? What are your thoughts on that workflow?**<br />
+The pairing style was pretty good with my partner. The Github work flow was correctly and evenly for the both of us.
 **2. What skill do you feel you have a better handle on after working on this project? What skill has this project lead you to realize you need more practice on?**<br />
+I would say the TDD part. The diving work with the partner
 **3. What strategies help you best work with others? What would you like others to know about how you work best?**<br />
-
+The communication.
 ## Group Project
 
 ### Project Overview
 
 #### List out the tools you used:
-1.
-2.
-3.
+1. TDD
+2. GitHub projects
+3. organization with the whole project
 ...
 
 #### Write a 1-2 sentence synopsis of what this project does:
 
 ### Reflection Questions: 
 **1. Group: What conflicts came up and how did you resolve them?  This could look like different opinions on how to code a method, what to name a class, when to do stand ups, or communication breakdowns.**<br />
+The merged conflicts what we were having.
 **2. Pick 1 technical concept you used for this project (look back at our lessons and the learning goals of the project to pick this). Explain what this concept is, how it works, and give an example of where you used this in your code.**<br />
+The organization that we had with the methods and the way we use helper methods on your code.
 **3. Describe your team’s code review process. How did you ensure your end product worked and was of high quality?**<br />
+We got all of the test at 100% coverage and passing.
